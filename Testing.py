@@ -1,5 +1,8 @@
-# Use commented code if you are running trials to check how well your function is doing. This will save simulation runs where the cord length makes sense as an excel sheet called SimMod
-# Cord lengths that are not feasible will be put into an excel spreadsheet called Incorrect_lengths.   
+'''
+Use commented code if you are running trials to check how well your function is doing. 
+This will save simulation runs where the cord length makes sense as an excel sheet called SimMod.
+Cord lengths that are not feasible will be put into an excel spreadsheet called Incorrect_lengths.  
+''' 
 
 import random
 import pandas as pd
